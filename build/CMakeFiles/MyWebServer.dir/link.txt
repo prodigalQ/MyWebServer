@@ -1,1 +1,0 @@
-/usr/bin/g++  -std=c++11 -pthread -g  -rdynamic CMakeFiles/MyWebServer.dir/src/buffer.cpp.o CMakeFiles/MyWebServer.dir/src/epoller.cpp.o CMakeFiles/MyWebServer.dir/src/httpconn.cpp.o CMakeFiles/MyWebServer.dir/src/httprocess.cpp.o CMakeFiles/MyWebServer.dir/src/main.cpp.o CMakeFiles/MyWebServer.dir/src/webserver.cpp.o  -o ../bin/MyWebServer 
