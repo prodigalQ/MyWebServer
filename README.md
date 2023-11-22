@@ -16,4 +16,4 @@ linux环境下用C++11实现的轻量级web服务器，目前实现了主干的�
 * 一些配置参数可在main.cpp中修改
 
 # 参考
-[C++ Linux WebServer服务器](https://github.com/markparticle/WebServer/)
+[C++ Linux WebServer服务器 by markparticle](https://github.com/markparticle/WebServer/)
